@@ -1,2 +1,4 @@
 # SHMEAS
 Smart Health Monitoring and Emergency Alert System using ATtiny, LMB280 (as a physical prototype used ESP32+DHT22), IoT platforms, and mobile notifications.
+
+This is a solution based on the Internet of Things and artificial intelligence that provides continuous monitoring of an individual's health. It relies on a smartwatch, a smartphone, and, if necessary, an implantable capsule that collects data such as heart rate, temperature, activity, and location. This information is analyzed by an AI module capable of detecting anomalies while reducing false alarms by adapting to the user's usual profile. In the event of a suspicious situation, the system first sends a confirmation notification to the user; if there is no response, it automatically alerts trusted contacts and can contact emergency services. This system does not perform medical diagnoses, but it aims to improve prevention, enhance personal safety, and reduce response times in emergencies.
